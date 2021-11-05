@@ -5,5 +5,12 @@
 
 Stay tuned.
 
+# YoptaScriptCode
+```cs
+```
+
 # Состав разработчиков
+```
   Erghel - Front + Script 
+```  
+  
